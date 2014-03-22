@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is a test of manual jekyll"
-date:   2014-03-22 23:39:17
+date:   2014-03-22 00:10:17
 categories: jekyll update
 ---
 
